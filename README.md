@@ -2,11 +2,7 @@
 
 ## Overview
 
-The PhotoProcessor project consists of several Java classes that demonstrate key Java concepts such as constructors, exception handling, string manipulation, GUI handling with `JOptionPane`, and interactions with an external library (`cmsc131PictureLib`). This project serves as a practical application of these concepts through a photo processing system and its associated functionalities.
-
-## Project Structure
-
-The project is divided into the following classes, each focusing on different Java topics:
+This project serves as a practical application of these concepts through a photo processing system and its associated functionalities.
 
 ### Address.java
 
